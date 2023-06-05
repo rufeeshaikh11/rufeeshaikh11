@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rufeeshaikh11
+- 👋 Hi, I’m Rufee Shaikh.
 - 👀 I’m interested in Web Development and Data Science
 - 📫 How to reach me shaikhrufee404@gmai.com
 
